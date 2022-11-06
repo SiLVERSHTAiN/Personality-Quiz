@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		6942F1912916BAF100E71F33 /* Question.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6942F1902916BAF100E71F33 /* Question.swift */; };
+		6942F199291782B100E71F33 /* ResponceType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6942F198291782B100E71F33 /* ResponceType.swift */; };
+		6942F19B291784F200E71F33 /* AnimalsType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6942F19A291784F200E71F33 /* AnimalsType.swift */; };
+		6942F19D2917854300E71F33 /* Answer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6942F19C2917854300E71F33 /* Answer.swift */; };
 		69A88F582916741B00D0C97F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69A88F572916741B00D0C97F /* AppDelegate.swift */; };
 		69A88F5A2916741B00D0C97F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69A88F592916741B00D0C97F /* SceneDelegate.swift */; };
 		69A88F5C2916741B00D0C97F /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69A88F5B2916741B00D0C97F /* MainViewController.swift */; };
@@ -18,6 +21,9 @@
 
 /* Begin PBXFileReference section */
 		6942F1902916BAF100E71F33 /* Question.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question.swift; sourceTree = "<group>"; };
+		6942F198291782B100E71F33 /* ResponceType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResponceType.swift; sourceTree = "<group>"; };
+		6942F19A291784F200E71F33 /* AnimalsType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalsType.swift; sourceTree = "<group>"; };
+		6942F19C2917854300E71F33 /* Answer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Answer.swift; sourceTree = "<group>"; };
 		69A88F542916741B00D0C97F /* Personality Quiz.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Personality Quiz.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		69A88F572916741B00D0C97F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		69A88F592916741B00D0C97F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -43,6 +49,9 @@
 			isa = PBXGroup;
 			children = (
 				6942F1902916BAF100E71F33 /* Question.swift */,
+				6942F19C2917854300E71F33 /* Answer.swift */,
+				6942F19A291784F200E71F33 /* AnimalsType.swift */,
+				6942F198291782B100E71F33 /* ResponceType.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -173,7 +182,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6942F199291782B100E71F33 /* ResponceType.swift in Sources */,
+				6942F19B291784F200E71F33 /* AnimalsType.swift in Sources */,
 				69A88F5C2916741B00D0C97F /* MainViewController.swift in Sources */,
+				6942F19D2917854300E71F33 /* Answer.swift in Sources */,
 				69A88F582916741B00D0C97F /* AppDelegate.swift in Sources */,
 				69A88F5A2916741B00D0C97F /* SceneDelegate.swift in Sources */,
 				6942F1912916BAF100E71F33 /* Question.swift in Sources */,
