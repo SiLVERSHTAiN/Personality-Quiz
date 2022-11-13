@@ -1,6 +1,9 @@
 # Personality-Quiz on Storyboards
 Simple quiz with 3 screen
 
+using: 
+- unwindSegie
+- performSegue
 
 <img width="326" alt="Снимок экрана 2022-11-12 в 11 33 15 PM" src="https://user-images.githubusercontent.com/57324920/201484450-156ca00a-c1cd-4e61-adda-f36908f3cc87.png">
 <img width="328" alt="Снимок экрана 2022-11-12 в 11 33 35 PM" src="https://user-images.githubusercontent.com/57324920/201484461-7f9c0adb-7102-4d1e-a8b7-19308cd73867.png">
